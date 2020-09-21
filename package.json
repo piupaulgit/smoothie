@@ -1,0 +1,21 @@
+{
+    "name": "smoothie",
+    "displayName": "smoothie",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "smoothie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/smoothie-color-theme.json"
+            }
+        ]
+    }
+}
